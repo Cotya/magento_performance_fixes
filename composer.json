@@ -1,0 +1,19 @@
+{
+    "name": "Cotya/MagentoPerformanceFixes",
+    "license": "MIT",
+    "type": "magento-module",
+    "description": "some fixes to disable performance related problems in a non problematic way",
+    "require": {
+    },
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Daniel Fahlke aka Flyingmana",
+            "email":"flyingmana@googlemail.com",
+            "homepage": "http://flyingmana.name",
+            "role": "Developer"
+        }
+    ]
+}

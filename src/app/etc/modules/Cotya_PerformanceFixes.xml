@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Cotya_PerformanceFixes>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends></depends>
+        </Cotya_PerformanceFixes>
+    </modules>
+</config>

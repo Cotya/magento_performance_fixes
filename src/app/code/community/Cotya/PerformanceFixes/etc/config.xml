@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Cotya_PerformanceFixes>
+            <version>1.0.0</version>
+        </Cotya_PerformanceFixes>
+    </modules>
+    <global>
+        <blocks>
+            <cotya_performancefixes>
+                <class>Cotya_PerformanceFixes_Block</class>
+            </cotya_performancefixes>
+        </blocks>
+        <helpers>
+            <cotya_performancefixes>
+                <class>Cotya_PerformanceFixes_Helper</class>
+            </cotya_performancefixes>
+        </helpers>
+        <models>
+            <cotya_performancefixes>
+                <class>Cotya_PerformanceFixes_Model</class>
+            </cotya_performancefixes>
+        </models>
+        <resources>
+            <cotya_performancefixes_setup>
+                <setup>
+                    <module>Cotya_PerformanceFixes</module>
+                </setup>
+            </cotya_performancefixes_setup>
+        </resources>
+    </global>
+</config>
